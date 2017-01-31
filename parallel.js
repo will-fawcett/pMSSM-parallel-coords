@@ -1,3 +1,10 @@
+//
+//  parallel.js
+//
+//  Created by William Fawcett. 
+//  Copyright © 2017 William Fawcett. All rights reserved.
+//
+
 var keys = ["LSP", 
     "Excluded", 
     "tanbeta", 
