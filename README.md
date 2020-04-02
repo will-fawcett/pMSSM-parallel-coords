@@ -1,5 +1,5 @@
 # pMSSM parallel coordinates
-- Contained in this repository is sufficient code to re-create the webpage hosted here: http://www-pnp.physics.ox.ac.uk/~fawcett/pmssm.html
+- Contained in this repository is sufficient code to re-create the webpage hosted here: https://www.hep.phy.cam.ac.uk/~wfawcett/pmssm.html
 - The code makes heavy use of the open-source D3 software: https://d3js.org/, which is excellent for displaying data in visually impressive formats.
 
 ## Information about what is on the website
